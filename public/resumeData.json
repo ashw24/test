@@ -1,14 +1,13 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Ashwin Chembu",
+    "description":"This portfolio showcases my journey as a dedicated web developer and computer science student at UC Davis, highlighting my hands-on experience across various technical roles, academic achievements at both UC Davis and UC Santa Cruz, and my certifications in data science and cloud computing",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am a passionate and motivated web developer with a strong foundation in computer science and engineering. I am currently pursuing from UC Santa Cruz, where I achieved Dean's Honors and earned certifications in data science and cloud computing.",
+    "email": "ashchembu@gmail.com",
+    "phone": "341-356-1722",
+    "github":"https://github.com/ashw24",
+    "project":"https://www.linkedin.com/in/ashwin-chembu-a5292b205/",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
@@ -16,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1aVcByB2r3bp0kqEnAUiK7MVe6lU9wqoI9nZVZg7tFCk/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -46,33 +45,33 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+    "skillmessage": "A proficient software developer and data analyst with expertise in front-end and back-end technologies, machine learning, and data-driven research. Skilled in React, NextJS, Python, Java, and more. Experienced in developing full-stack applications, conducting quality assurance, and implementing machine learning algorithms for predictive modeling.",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of California - Davis",
+        "degree": "Computer Science B.S.",
+        "graduated": "Expected Graduation: June 2025",
+        "description": "Pursuing a Bachelor's degree in Computer Science with a strong academic record (3.85 GPA). Actively involved in projects and research that leverage the latest technologies and methodologies in the field."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Tech4Good",
+        "title": "Data Analyst Researcher",
+        "years": "Mar 2023 - Present",
+        "description": "Conducted data-driven research for social impact projects, improving accessibility to essential services by 35%. Developed data pipelines and collaborated with cross-functional teams to optimize web-based applications."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Photon Commerce",
+        "title": "Software Developer (QA Analysis)",
+        "years": "Jan 2023 - Present",
+        "description": "Collaborated with teams to resolve bugs, reducing defects by 30%. Conducted manual testing, ensuring a 99% pass rate for test cases. Improved software quality and development efficiency by 20%."
+      },
+      {
+        "company": "NYU",
+        "title": "Machine Learning Intern",
+        "years": "Jun 2020 - Jul 2020",
+        "description": "Developed and optimized machine learning models, achieving a 25% improvement in prediction accuracy. Conducted hyperparameter tuning and organized educational workshops on machine learning concepts."
       }
     ],
     "skills":[
@@ -108,78 +107,90 @@
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      }
+        {
+          "title": "Echo",
+          "category": "Digital Verification System",
+          "icon": "fa-id-card",
+          "url": "https://devpost.com/software/echo-ioxseg"
+        },
+        {
+          "title": "Six Degrees of Kevin Bacon (Fullstack)",
+          "category": "Full-stack Application",
+          "icon": "fa-film",
+          "url": "https://www.youtube.com/watch?v=7hsL7PqMFSY"
+        },
+        {
+          "title": "Safe Grub",
+          "category": "Allergen Identifier Web App",
+          "icon": "fa-utensils",
+          "url": "https://github.com/parnapraveen/HackDavis2023"
+        },
+        {
+          "title": "DriveTheVote",
+          "category": "Voter Transportation Web Service",
+          "icon": "fa-car",
+          "url": "https://github.com/msaini26/election-turnout-civic-tech"
+        },
+        {
+          "title": "Sorta",
+          "category": "Waste Management Solution",
+          "icon": "fa-recycle",
+          "url": "https://www.s0rta.tech/"
+        },
+        {
+          "title": "A Dramatic Analysis",
+          "category": "Text Analysis Tool",
+          "icon": "fa-book",
+          "url": "https://github.com/ashw24/Projects/tree/main/C%2B%2B%20Projects%20-%20Data%20Structures%20and%20Algorithms/a-dramatic-analysis(with%20Linked%20Lists)"
+        },
+        {
+          "title": "NQueens Without Recursion",
+          "category": "Chessboard Problem Solver",
+          "icon": "fa-chess-queen",
+          "url": "https://github.com/ashw24/Projects/tree/main/C%2B%2B%20Projects%20-%20Data%20Structures%20and%20Algorithms/nqueens-without-recursion"
+        },
+        {
+          "title": "Range Searching With AVL Trees",
+          "category": "Data Structure Implementation",
+          "icon": "fa-tree",
+          "url": "https://github.com/ashw24/Projects/tree/main/C%2B%2B%20Projects%20-%20Data%20Structures%20and%20Algorithms/range-searching-with-avl-trees"
+        },
+        {
+          "title": "Six Degrees of Kevin Bacon (C++ only)",
+          "category": "Graph Data Structure Project",
+          "icon": "fa-users",
+          "url": "https://github.com/ashw24/Projects/tree/main/C%2B%2B%20Projects%20-%20Data%20Structures%20and%20Algorithms/six-degrees-of-kevin-bacon"
+        },
+        {
+          "title": "Stock Ratio Analysis",
+          "category": "Stock Market Analysis Tool",
+          "icon": "fa-chart-line",
+          "url": "https://github.com/ashw24/Projects/tree/master"
+        },
+        {
+          "title": "Primitive Graphics Tool",
+          "category": "Graphics Simulation Tool",
+          "icon": "fa-paint-brush",
+          "url": "https://github.com/ashw24/Projects/tree/main/Computer%20Systems%20Projects/Functions%20and%20Graphics"
+        },
+        {
+          "title": "Sudoku/SAT Solver",
+          "category": "Puzzle Solver",
+          "icon": "fa-puzzle-piece",
+          "url": "https://github.com/ashw24/Projects/blob/main/Python%20Projects(Data%20Structures%20and%20Algorithms)/Sudoku-SAT%20Solver.ipynb"
+        },
+        {
+          "title": "Hashtable Organizer",
+          "category": "Data Organizer Tool",
+          "icon": "fa-table",
+          "url": "https://github.com/ashw24/Projects/tree/main/Computer%20Systems%20and%20C%20Projects/Assorted%20Projects(Including%20Hash%20Table%20Solver)"
+        },
+        {
+          "title": "Ocean Plastic Pollution Summit",
+          "category": "Environmental Initiative",
+          "icon": "fa-water",
+          "url": "https://www.montereybayaquarium.org/for-educators/teacher-professional-development/teacher-programs/ocean-plastic-pollution-summit"
+        }
     ]
   }
 }
