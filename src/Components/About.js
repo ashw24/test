@@ -15,7 +15,8 @@ class About extends Component {
     const phone = this.props.data.phone;
     const email = this.props.data.email;
     const resumeDownload = this.props.data.resumedownload;
-
+    const meeting = this.props.data.meeting
+    
     return (
       <section id="about">
         <Fade duration={1000}>
@@ -47,6 +48,11 @@ class About extends Component {
                     <a href={resumeDownload} className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
+                    <br></br>
+                    <a href={meeting} className="button" style = {{marginLeft: '20px'}} >
+                      <i className="fa fa-calendar"></i>Book Meeting
+                    </a>
+                    
                   </p>
                 </div>
               </div>
